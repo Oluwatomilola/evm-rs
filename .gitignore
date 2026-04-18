@@ -1,1 +1,7 @@
 /target
+/../Cargo.lock
+/../target_local
+/../target_local_debug
+/../target_local_release
+/../target_local_bench
+/../target_local_test
